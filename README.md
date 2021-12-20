@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rajarshi Karmakar
-- 👀 I’m interested in Computers
-- 🌱 I’m currently learning :P
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Coding.
+- 🌱 I’m currently learning Web Development.
+- 💞️ I’m looking to collaborate on Cool Projects.
 - 📫 How to reach me rajarshikarmakar@outlook.in
 
 <!---
