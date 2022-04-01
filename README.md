@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rajarshi Karmakar
 - 👀 I’m interested in building exciting projects.
-- 🌱 I’m currently learning DevOps.
+- 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on Cool Projects.
 - 📫 How to reach me rajarshikarmakar@outlook.in
 
